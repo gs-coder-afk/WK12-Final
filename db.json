@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "id": "0",
+      "title": "World At War",
+      "franchise": "Call of Duty"
+    },
+    {
+      "id": "1",
+      "title": "III: Legends of Rock",
+      "franchise": "Guitar Hero"
+    },
+    {
+      "id": "2",
+      "title": "IV: Black Flag",
+      "franchise": "Assasin's Creed"
+    }
+  ]
+}
